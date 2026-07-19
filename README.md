@@ -1,6 +1,6 @@
 # Hi, I'm Temmuz Tan Çataloluk
 
-I'm an Electrical & Electronics Engineering student interested in signal processing, machine learning, Linux, and low-level systems. I enjoy turning technical ideas into small, understandable projects—from classifying digital modulation schemes to building terminal tools and games close to the hardware.
+I'm an Electrical & Electronics Engineering student interested in signal processing, machine learning, Linux, and low-level systems. I enjoy turning technical ideas into small, understandable projects from classifying digital modulation schemes to building terminal tools and games close to the hardware.
 
 ## What I work with
 
