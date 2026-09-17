@@ -4,9 +4,8 @@ I'm an Electrical & Electronics Engineering student interested in signal process
 
 ## What I work with
 
-- **Languages:** Python, Bash, Rust, x86-64 Assembly, JavaScript, TypeScript
-- **Engineering:** Digital communications, signal processing, machine learning, Linux tooling
-- **Web:** Next.js, Tailwind CSS, HTML, CSS
+- **Languages:** Python, Bash, rarely Rust, x86-64 Assembly, JC
+- **Engineering:** Digital communications, signal processing, machine learning
 
 ## Featured projects
 
@@ -30,7 +29,7 @@ A personal engineering portfolio and blog built with Next.js, Tailwind CSS, and 
 
 - Building clearer demonstrations and documentation for my engineering projects
 - Deepening my knowledge of communication systems and applied machine learning
-- Exploring systems programming through Rust, assembly, and Linux tools
+- Exploring systems through SDR
 
 ## Contact
 
